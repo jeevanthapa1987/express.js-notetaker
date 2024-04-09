@@ -1,0 +1,25 @@
+{
+  "name": "express.js-note-taker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "jeevan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevanthapa1987/express.js-notetaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeevanthapa1987/express.js-notetaker/issues"
+  },
+  "homepage": "https://github.com/jeevanthapa1987/express.js-notetaker#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  }
+}
